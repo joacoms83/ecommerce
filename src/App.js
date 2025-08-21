@@ -1,4 +1,3 @@
-// src/App.js
 import React from "react";
 import NavBar from "./components/Navbar";
 import ItemListContainer from "./components/ItemListContainer";
